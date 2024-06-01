@@ -48,4 +48,4 @@ Naive Bayes is a classification algorithm based on Bayes' theorem. It assumes co
 - **Overfitting**: When the model learns too much detail from the training data, making it less efficient when dealing with new data.
 - **Feature Selection**: Identifying the most important features can be challenging and requires experimenting with many different feature sets.
 
-By using classification algorithms correctly, many processes can be improved, and more accurate decisions can be made based on available data.￼Enter
+By using classification algorithms correctly, many processes can be improved, and more accurate decisions can be made based on available data.
